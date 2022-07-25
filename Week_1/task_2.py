@@ -4,8 +4,8 @@
 
 
 
-number1 = input("Введите первое число ")
-number2 = input("Введите второе число ")
+number1 = int(input("Введите первое число "))
+number2 = int(input("Введите второе число "))
 
 if number1 > number2:
     print("True")
