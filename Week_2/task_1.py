@@ -32,4 +32,3 @@ def invert():
 
 print(school)
 invert()
-
